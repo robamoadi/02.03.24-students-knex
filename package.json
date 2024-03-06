@@ -1,7 +1,7 @@
 {
   "name": "students-exercise",
   "version": "2.0.0",
-  "description": "students.table",
+  "description": "node.knex",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
