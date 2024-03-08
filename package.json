@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
+    "start_pg": "node studentpg.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,6 +20,7 @@
   "homepage": "https://github.com/robamoadi/02.03.24-students-knex#readme",
   "dependencies": {
     "knex": "^3.1.0",
+    "pg": "^8.11.3",
     "sqlite3": "^5.1.7"
   }
 }
